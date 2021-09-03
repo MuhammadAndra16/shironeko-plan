@@ -1,6 +1,6 @@
 SHIRO NEKO PLANS
 - Focus on learning Backend
-- Focus on mastering the Java programming languange, php, Go lang, Java Scrip and various kinds FrameWork
+- Focus on mastering the Java programming languange, php, Go lang and various kinds FrameWork
 - Someday i will set up a Start Up
 - Create usefull apps
 - Usefull for many people
