@@ -3,6 +3,6 @@ SHIRO NEKO PLANS
 - Focus on mastering the Java programming languange, php, Go lang and various kinds FrameWork
 - Someday i will set up a Start Up
 - Create usefull programs
--create many open source programs
+- create many open source programs
 - Usefull for many people
 
